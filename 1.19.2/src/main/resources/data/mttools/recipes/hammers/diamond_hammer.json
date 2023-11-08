@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WTW",
+    " T "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:diamond"
+    },
+    "T": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mttools:diamond_hammer"
+  }
+}

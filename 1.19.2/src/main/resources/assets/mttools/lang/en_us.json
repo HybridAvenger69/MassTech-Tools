@@ -1,0 +1,22 @@
+{
+  "item.mttools.hammer.tip": "Mine In a 3x3",
+  "item.mttools.excavator.tip": "Digs In a 3x3",
+  "item.mttools.copper_hammer": "Copper Hammer",
+  "item.mttools.diamond_hammer": "Diamond Hammer",
+  "item.mttools.emerald_hammer": "Emerald Hammer",
+  "item.mttools.gold_hammer": "Golden Hammer",
+  "item.mttools.iron_hammer": "Iron Hammer",
+  "item.mttools.netherite_hammer": "Netherite Hammer",
+  "item.mttools.obsidian_hammer": "Obsidian Hammer",
+  "item.mttools.stone_hammer": "Stone Hammer",
+  "item.mttools.wooden_hammer": "Wooden Hammer",
+  "item.mttools.copper_excavator": "Copper Excavator",
+  "item.mttools.diamond_excavator": "Diamond Excavator",
+  "item.mttools.emerald_excavator": "Emerald Excavator",
+  "item.mttools.gold_excavator": "Golden Excavator",
+  "item.mttools.iron_excavator": "Iron Excavator",
+  "item.mttools.netherite_excavator": "Netherite Excavator",
+  "item.mttools.obsidian_excavator": "Obsidian Excavator",
+  "item.mttools.stone_excavator": "Stone Excavator",
+  "item.mttools.wooden_excavator": "Wooden Excavator"
+}

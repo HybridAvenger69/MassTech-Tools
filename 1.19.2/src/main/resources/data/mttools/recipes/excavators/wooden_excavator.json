@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " W ",
+    "WTW",
+    " T "
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:planks"
+    },
+    "T": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mttools:wooden_excavator"
+  }
+}

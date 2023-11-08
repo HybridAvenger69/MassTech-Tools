@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WTW",
+    " T "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:cobblestone"
+    },
+    "T": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mttools:stone_hammer"
+  }
+}

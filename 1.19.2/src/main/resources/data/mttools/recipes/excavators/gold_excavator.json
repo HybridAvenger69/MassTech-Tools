@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "W",
+    "T",
+    "T"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:gold_block"
+    },
+    "T": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mttools:gold_excavator"
+  }
+}
