@@ -18,5 +18,13 @@
   "item.mttools.netherite_excavator": "Netherite Excavator",
   "item.mttools.obsidian_excavator": "Obsidian Excavator",
   "item.mttools.stone_excavator": "Stone Excavator",
-  "item.mttools.wooden_excavator": "Wooden Excavator"
+  "item.mttools.wooden_excavator": "Wooden Excavator",
+  "item.mttools.wooden_greataxe": "Wooden GreatAxe",
+  "item.mttools.stone_greataxe": "Stone GreatAxe",
+  "item.mttools.copper_greataxe": "Copper GreatAxe",
+  "item.mttools.iron_greataxe": "Iron GreatAxe",
+  "item.mttools.gold_greataxe": "Golden GreatAxe",
+  "item.mttools.diamond_greataxe": "Diamond GreatAxe",
+  "item.mttools.netherite_greataxe": "Netherite GreatAxe",
+  "item.mttools.obsidian_greataxe": "Obsidian GreatAxe"
 }

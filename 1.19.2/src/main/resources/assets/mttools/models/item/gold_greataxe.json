@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "mttools:item/greataxes/gold_greataxe"
+  }
+}

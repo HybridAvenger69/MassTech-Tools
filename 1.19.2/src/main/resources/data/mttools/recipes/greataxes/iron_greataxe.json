@@ -1,19 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " W ",
-    "WTW",
+    " WW",
+    " TW",
     " T "
   ],
   "key": {
     "W": {
-      "item": "minecraft:cobblestone"
+      "item": "minecraft:iron_block"
     },
     "T": {
       "item": "minecraft:stick"
     }
   },
   "result": {
-    "item": "mttools:stone_excavator"
+    "item": "mttools:iron_greataxe"
   }
 }

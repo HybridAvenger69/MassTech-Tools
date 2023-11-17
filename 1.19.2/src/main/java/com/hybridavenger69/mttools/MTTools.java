@@ -2,6 +2,7 @@ package com.hybridavenger69.mttools;
 
 import com.hybridavenger69.hybridlib.HybridIDS;
 import com.hybridavenger69.mttools.registry.ExcavatorRegistry;
+import com.hybridavenger69.mttools.registry.GreatAxeRegistry;
 import com.hybridavenger69.mttools.registry.HammerRegistry;
 import net.minecraft.client.Minecraft;
 import net.minecraft.world.level.block.Blocks;
@@ -34,6 +35,7 @@ public class MTTools
 
         HammerRegistry.ITEMS.register(modEventBus);
         ExcavatorRegistry.ITEMS.register(modEventBus);
+        GreatAxeRegistry.ITEMS.register(modEventBus);
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
 

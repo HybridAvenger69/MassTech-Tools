@@ -2,18 +2,18 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     " W ",
-    "WTW",
+    " TW",
     " T "
   ],
   "key": {
     "W": {
-      "item": "minecraft:cobblestone"
+      "tag": "minecraft:planks"
     },
     "T": {
       "item": "minecraft:stick"
     }
   },
   "result": {
-    "item": "mttools:stone_excavator"
+    "item": "mttools:wooden_greataxe"
   }
 }
